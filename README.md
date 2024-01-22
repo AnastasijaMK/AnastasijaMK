@@ -4,13 +4,16 @@
 </h1>
 <h3>I work in front‑end development and have more than 3 years of commercial development experience</h3>
 
+🌱 I’m currently learning Vue.js
+
+📫 How to reach me: kyzmina.a2015@gmail.com
+
 <!--
 **AnastasijaMK/AnastasijaMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
