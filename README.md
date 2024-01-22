@@ -4,6 +4,9 @@
 </h1>
 <h3>I work in front‑end development and have more than 3 years of commercial development experience</h3>
 
+<p>I can work with:</p>
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
 🌱 I’m currently learning Vue.js
 
 📫 How to reach me: kyzmina.a2015@gmail.com
