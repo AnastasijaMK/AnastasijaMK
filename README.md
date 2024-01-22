@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1>
+  Hi there, I'm <a href="https://anastasijamk.github.io/Portfolio/" target="_blank">Anastasia</a> 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h3>I work in front‑end development and have more than 3 years of commercial development experience</h3>
 
 <!--
 **AnastasijaMK/AnastasijaMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
