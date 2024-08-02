@@ -4,7 +4,7 @@
 </h1>
 <h4>I work in front‑end development and have more than 3 years of commercial development experience</h3>
 
-<p>You can see some of my works in the <a href="https://anastasijamk.github.io/Portfolio/">portfolio</a></p>
+<p>You can see some of my works in the <a href="https://anastasijamk.github.io/Portfolio/" target="_blank">portfolio</a></p>
 
 <p>I can use:</p>
 
