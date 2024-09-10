@@ -2,7 +2,7 @@
   Hi there, I'm <a href="https://anastasijamk.github.io/Portfolio/" target="_blank">Anastasia</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h4>I work in front‑end development and have more than 3 years of commercial development experience</h3>
+<h4>I work in front‑end development and have more than 4 years of commercial development experience</h3>
 
 <p>You can see some of my works in the <a href="https://anastasijamk.github.io/Portfolio/" target="_blank">portfolio</a></p>
 
